@@ -1,1 +1,1 @@
-# flidght-db
+# flight-db
